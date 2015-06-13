@@ -1,4 +1,4 @@
-
+﻿
 package src {
 	
 	import flash.display.MovieClip;
@@ -29,6 +29,7 @@ package src {
 	/**
 	 * ...
 	 * @author Leonel Serra
+	 * Game published
 	 */
 	public class Main extends MovieClip 
 	{
