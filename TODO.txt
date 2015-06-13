@@ -1,0 +1,41 @@
+--TODO List
+
+//=============================================
+// DONE
+//=============================================
+= Check rectangle shadows. Seem to be on top of the rectangles, when they should appear on the back. DONE
+= Background with order indication. DONE
+= Add reverse order check. DONE
+= Add Levels class with score, times and levels. DONE
+= Make Icon. DONE
+= Make GameOver screen the same color as last level. DONE
+= Options screen DONE
+= Main Screen from Game Over. DONE
+= First two levels with ascending order only. DONE
+= Check that number of pieces changes with level. DONE
+= advanced levels will change squares positions 1/2 second before times to view ends.DONE
+= Rules screeen.DONE
+= Last score on the same screen as High Score
+= Change Heart animation do be more visible
+= Bonus with time
+= Add time to play
+= Check sounds options
+= Keep Options on Local Storage
+
+//=============================================
+// TO DO
+//=============================================
+
+= Info and disclaimer screen
+= Facebook integration
+= Prevent game to exit with BACK button
+= Still check the sound options
+
+=======
+Hi Score table.
+Make it social.
+Use SQL to store hi score list.
+Open Google Play store.
+Test app with different Android versions and phones. Gather opinions, improvements and feedback.
+Release game.
+make shadows always under all rectangles, but above background
